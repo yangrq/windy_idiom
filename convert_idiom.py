@@ -45,7 +45,6 @@ def pinyin_character_to_normal(pinyin_str):
             res = map.get(char, [' ', 0])
             if res != [' ', 0]:
                 word = word.replace(char, res[0])
-                word = word + str(res[1])
                 break
         temp.append(word.replace('，', ''))
     return ' '.join(temp)
