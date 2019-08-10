@@ -27,7 +27,7 @@ python convert_idiom.py
 
 ## Donation 捐赠
 欢迎捐赠！
-![微信](http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.jpg)
+![微信](http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.png)
 ![支付宝](http://yangrq.luobotou.org/wp-content/uploads/2019/08/alipay.jpg)
 
 ## File description 文件描述
