@@ -27,8 +27,9 @@ python convert_idiom.py
 
 ## Donation 捐赠
 欢迎捐赠！
-![微信](http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.png)
-![支付宝](http://yangrq.luobotou.org/wp-content/uploads/2019/08/alipay.jpg)
+
+![微信](http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.png){:height="100px" width="100px"}
+![支付宝](http://yangrq.luobotou.org/wp-content/uploads/2019/08/alipay.jpg){:height="100px" width="100px"}
 
 ## File description 文件描述
 
