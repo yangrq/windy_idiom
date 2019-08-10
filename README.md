@@ -28,8 +28,8 @@ python convert_idiom.py
 ## Donation 捐赠
 欢迎捐赠！
 
-![微信](http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.png){:height="100px" width="100px"}
-![支付宝](http://yangrq.luobotou.org/wp-content/uploads/2019/08/alipay.jpg){:height="100px" width="100px"}
+<img src="http://yangrq.luobotou.org/wp-content/uploads/2019/08/wechat.png" alt="微信" width="80" height="80">
+<img src="http://yangrq.luobotou.org/wp-content/uploads/2019/08/alipay.jpg" alt="支付宝" width="80" height="80">
 
 ## File description 文件描述
 
