@@ -3,7 +3,7 @@
 
 schema:
   schema_id: windy_idiom
-  name: 清风成语
+  name: 大风成语
   version: "0.1"
   author:
     - yangrq <yangrq.lambda@gmail.com>
