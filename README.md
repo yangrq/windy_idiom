@@ -8,13 +8,13 @@
 ![](screenshots/1.png)
 ![](screenshots/2.png)
 
-## How to use 使用方式
+## How to use 如何使用
 - 下载中州韵输入法在各平台的适配端(Android:trime(同文输入法), Windows:Weasel(小狼毫输入法))
 - 下载output文件夹中的输入法方案
 - 导入方案
 - 开始享受!
 
-## How to build
+## How to build 如何构建
 ```
 git clone https://github.com/yangrq/windy_idiom
 cd windy_idiom
