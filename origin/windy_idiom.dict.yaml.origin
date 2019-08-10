@@ -1,0 +1,16 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Windy Idiom - 清风成语
+#
+
+
+---
+name: windy_idiom
+version: "2019.8.10"
+sort: original
+use_preset_vocabulary: true
+max_phrase_length: 10
+min_phrase_weight: 100
+...
+
