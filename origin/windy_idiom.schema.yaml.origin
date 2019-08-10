@@ -39,7 +39,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - table_translator
+    - script_translator
     - punct_translator
   filters:
     - simplifier
